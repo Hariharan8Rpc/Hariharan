@@ -17,6 +17,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hariharan8Rpc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hariharan8Rpc&theme=onedark)](https://github.com/Hariharan8Rpc/github-profile-trophy)
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Hariharan8Rpc&icon=0&color=0)](https://visitcount.itsvg.in)  -->
 
